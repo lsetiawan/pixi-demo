@@ -6,7 +6,7 @@ A demonstration repository showcasing [Pixi](https://pixi.sh/), a modern package
 
 Pixi is a package management tool for Python that:
 
-- Uses conda-forge and PyPI packages
+- Uses Conda and PyPI packages
 - Provides fast, reliable dependency resolution
 - Creates isolated environments automatically
 - Works cross-platform (Windows, macOS, Linux)
